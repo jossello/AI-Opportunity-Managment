@@ -38,7 +38,12 @@ Existing PLM Tools
 If native and I build with Claude skills, the moat is the extent to which the company wants to customize the workflow or other aspects of the intake.
 
 **Named attacker (from partner challenge):**
-Existing PLM Tools, potentially Claude
+Salesforce AgentForce may end up treating AI agents like digital employees. Complext Enterprise Workflows will still be the moat.
+
+The pattern is that almost everyone is building systems to answer: "How do we govern AI?"
+
+My strongest differentiation is answering the Responsibility Engineering pov:
+"What job does this AI have, what authority does it have, and how do humans supervise it?"
 ---
 
 ## Top Vulnerability
