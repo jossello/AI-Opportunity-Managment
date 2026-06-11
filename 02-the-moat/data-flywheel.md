@@ -36,6 +36,10 @@
 
 ## Encroachment Threat Assessment
 
+<img width="606" height="457" alt="Screenshot 2026-06-11 at 10 42 25 AM" src="https://github.com/user-attachments/assets/b27fbf9d-2bf9-4af3-a5b6-c9d03b1c0a35" />
+<img width="898" height="695" alt="Screenshot 2026-06-11 at 10 42 03 AM" src="https://github.com/user-attachments/assets/f39f39c4-c5ae-4ff6-8d73-eda5e2195045" />
+
+
 ### 1. Platform Encroachment
 **Attacker:**
 **Vector:**
