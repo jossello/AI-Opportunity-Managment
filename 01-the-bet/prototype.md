@@ -91,15 +91,16 @@ ai
 Lovable
 
 ## Prototype Link
-[(https://ai-opportunity-management.lovable.app
+[https://ai-opportunity-management.lovable.app
 ](https://ai-opportunity-management.lovable.app)
 
 ## AI Value Archetype
-<!-- Automator / Copilot / Oracle / Creator / Orchestrator -->
+Primary Archetype: Orchestrator
+Secondary Archetypes: Oracle, Copilot
 
 ## The Bet in One Sentence
 <!-- What you're building, for whom, why now -->
 Organizations are struggling to evaluate and govern a growing volume of AI opportunities, and a structured work-classification process can help them make faster, more consistent decisions about what to build, buy, scale, or stop.
 
 ## Kill Criteria
-<!-- When would you stop? What evidence would kill this bet? -->
+No measurable reduction in governance cycle time, governance cost, or AI opportunity throughput after pilot deployment.
