@@ -95,8 +95,7 @@ Lovable
 ](https://ai-opportunity-management.lovable.app)
 
 ## AI Value Archetype
-Primary Archetype: Orchestrator
-
+Primary Archetype: Orchestrator; 
 Secondary Archetypes: Oracle, Copilot
 
 ## The Bet in One Sentence
