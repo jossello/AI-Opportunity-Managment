@@ -14,6 +14,14 @@ PM
 ### Contextual Moat — _4_/5
 *Workflow depth × switching cost. Would users leave in a weekend if a competitor showed up?*
 
+*Market Evidence*
+X customer interviews
+X governance leaders interviewed
+X AI opportunities evaluated annually
+Average governance cycle time
+Average governance staffing cost
+Examples of governance failures
+
 **Score rationale:**
 Intake would need to be rescored by a competitor, plus a new governance workflow would need to be put in place.
 
