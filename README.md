@@ -1,110 +1,187 @@
-# AI Opportunity Managment System
+# AI Governance Operating System
 
-> Organizations are struggling to evaluate and govern a growing volume of AI opportunities, and a structured work-classification process can help them make faster, more consistent decisions about what to build, buy, scale, or stop.
+> Organizations are struggling to evaluate, govern, and scale a growing volume of AI opportunities. The challenge is no longer generating ideas—it is creating a repeatable system for classifying work, assigning responsibility, managing risk, and turning successful experiments into enterprise capability.
 
 ---
 
 ## Strategy at a Glance
 
-| Component | Module | Status | Key Artifact |
-|-----------|--------|--------|-------------|
-| **The Bet** | M1 | [x] | `01-the-bet/` |
-| **The Moat** | M2 | [x] | `02-the-moat/` |
-| **The Margin** | M3 | [ ] | `03-the-margin/` |
-| **The Contract** | M4 | [x] | `04-the-contract/` |
-| **The Guardrails** | M5 | [x] | `05-the-guardrails/` |
-| **The Pitch** | M6 | [x] | `06-the-pitch/` |
+| Component          | Module | Status | Key Artifact         |
+| ------------------ | ------ | ------ | -------------------- |
+| **The Bet**        | M1     | [x]    | `01-the-bet/`        |
+| **The Moat**       | M2     | [x]    | `02-the-moat/`       |
+| **The Margin**     | M3     | [x]    | `03-the-margin/`     |
+| **The Contract**   | M4     | [x]    | `04-the-contract/`   |
+| **The Guardrails** | M5     | [x]    | `05-the-guardrails/` |
+| **The Pitch**      | M6     | [x]    | `06-the-pitch/`      |
 
 ---
 
-## The Bet (M1)
+# The Bet (M1)
 
-**What we're building, for whom, why now.**
+**What we're building, for whom, and why now.**
 
-- **Product:** AI Opportunity Managment System
-- **AI Value Archetype:** _(add: Automator / Copilot / Oracle / Creator / Orchestrator)_
-- **Vulnerability Scores:** _(add: Moat _/5 · Data _/5 · Platform _/5)_
-- **Top Risk:** Using Claude Skills with model upgrades/changes potentially improving/changing AI sections of the workflow.
-- **Confidence:** H
-- **Prototype:** [
-- **Kill Criteria:**
+* **Product:** AI Governance Operating System
+* **Primary Archetype:** Orchestrator
+* **Secondary Archetypes:** Oracle, Copilot
+* **Target Customer:** Enterprise organizations managing hundreds to thousands of AI opportunities annually
+* **Top Risk:** Platform vendors embed governance workflows directly into existing enterprise software
+* **Confidence:** High
+* **Prototype:** End-to-end governance workflow supporting Intake → Classification → Responsibility Design → Governance Review → Pilot Tracking
+* **Kill Criteria:** No measurable reduction in governance cycle time, governance cost, or AI opportunity throughput after pilot deployment
 
-→ Details: [`01-the-bet/`](01-the-bet/)
+### Strategic Insight
+
+The problem is not AI generation.
+
+The problem is AI decision-making at scale.
 
 ---
 
-## The Moat (M2)
+# The Moat (M2)
 
 **Why this won't get copied in 6 months.**
 
-- **Data Flywheel Score:**
-- **Weakest Loop:** Network Loop
-- **Top Encroachment Threat:**
-- **Encroachment Defense:** Build cross-team discovery, reusable governance patterns, approved use-case libraries, and recommended responsibility templates that make every team's work more valuable to others.
-- **Vendor Portability:** Ready
+* **Data Flywheel Score:** 16/20
+* **Strongest Loop:** Portfolio Intelligence
+* **Weakest Loop:** Network Effects
+* **Top Encroachment Threat:** Microsoft, ServiceNow, Atlassian
+* **Primary Defense:** Organizational memory and governance intelligence
+* **Vendor Portability:** Ready
 
-→ Details: [`02-the-moat/`](02-the-moat/)
+### Strategic Insight
 
----
+The moat is not the model.
 
-## The Margin (M3)
-
-**Will this make money or bleed it?**
-
-- **Gross Margin (current):**
-- **Gross Margin (AI-adjusted):**
-- **Pricing Model:**
-- **Pricing Today → Tomorrow:**
-- **Total AI COGS / unit:**
-- **Cascading Strategy:**
-- **Net Margin Shift:**
-- **Break-even at:**
-
-→ Details: [`03-the-margin/`](03-the-margin/)
+The moat is the accumulated governance knowledge generated through years of decisions, approvals, pilot outcomes, and accountability structures.
 
 ---
 
-## The Contract (M4)
+# The Margin (M3)
 
-**Why users will trust a probabilistic system.**
+**Will this create durable economic value?**
 
-- **Reliability Target:**
-- **Golden Dataset:** 10 rows, __ adversarial
-- **Confidence UX:** ### Approach
-- **HITL Architecture:** ### Stage 1: Opportunity Intake
-- **Failure Mode Coverage:** ### Most Likely Failure Mode
+* **Current Governance Cost:** $406 per opportunity
+* **AI-Enabled Cost:** $126 per opportunity
+* **Cost Reduction:** 69%
+* **Pricing Model:** Hybrid (Platform + Governance Intelligence)
+* **Enterprise Contract:** $250K–$500K annually
+* **Total AI COGS:** ~$126 per opportunity
+* **Primary Cost Driver:** Human governance review
+* **Model Strategy:** GPT-4o Mini → GPT-5.5 escalation
+* **Expected Gross Margin:** 80–90%
+* **Break-Even:** Approximately 500 opportunities annually
 
-→ Details: [`04-the-contract/`](04-the-contract/)
+### Strategic Insight
 
----
-
-## The Guardrails (M5)
-
-**What breaks when this scales — and what compounds.**
-
-- **Compounding System:** | Loop | Input | Output | Compounds? | Status | | ------------------------- | ------------------------------------------------------- | ------------------------------------------------------ | ---------- | ------- | | Go…
-- **Governance Posture:**
-- **Autonomy Boundaries:**
-- **Escalation Triggers:**
-- **Audit Cadence:**
-- **Shadow AI Audit (user-side):**
-- **Agent Boundaries:** ### Intake Agent
-- **Regulatory Exposure:**
-
-→ Details: [`05-the-guardrails/`](05-the-guardrails/)
+The economic opportunity comes from reducing governance labor, not reducing AI inference costs.
 
 ---
 
-## The Pitch (M6)
+# The Contract (M4)
+
+**Why users trust a probabilistic system.**
+
+* **Reliability Target:** >95% escalation recall for high-risk opportunities
+* **Golden Dataset:** 10 governance scenarios with 5 adversarial cases
+* **Confidence UX:** Confidence drives workflow routing rather than exposing probability scores
+* **Human-in-the-Loop:** Required at every governance decision point
+* **Primary Failure Mode:** High-risk opportunities incorrectly classified as low-risk
+
+### Strategic Insight
+
+For governance systems, escalation accuracy matters more than recommendation accuracy.
+
+---
+
+# The Guardrails (M5)
+
+**What breaks when this scales—and what compounds.**
+
+* **Compounding Asset:** Organizational intelligence
+* **Governance Posture:** Human-accountable AI
+* **Autonomy Boundary:** AI may recommend but may not approve
+* **Escalation Triggers:** Financial, Legal, Security, Employee, Customer, or Brand impact
+* **Audit Cadence:** Monthly operational review, quarterly governance review
+* **Shadow AI Focus:** Discovery, consolidation, and governance of unmanaged AI tools
+* **Agent Boundaries:** Recommendation-only agents with human approval requirements
+* **Regulatory Exposure:** EU AI Act, GDPR, privacy, employment, and consumer protection regulations
+
+### Strategic Insight
+
+The platform becomes more valuable as the organization learns, even if AI models become commodities.
+
+---
+
+# The Pitch (M6)
 
 **How you get this funded, shipped, and adopted.**
 
-- **Horizon 1 (Now):** AI Opportunity Intake & Workflow · Work Classification & Responsibility Design · Governance Queue & Executive Reporting · Portfolio Visibility Dashboard
-- **Horizon 2 (Next):** Governance Recommendation Engine · Reusable Governance Templates · Pilot Outcome Tracking · Cross-Functional Risk Intelligence
-- **Horizon 3 (Bet):** Portfolio Intelligence Engine · Governance Copilot · Enterprise AI Knowledge Graph · Autonomous Governance Operations
-- **Board Narrative:**
-- **Ask:**
-- **Key Strategic Change:**
+### Horizon 1 — Foundation (0–3 Months)
 
-→ Details: [`06-the-pitch/`](06-the-pitch/)
+* AI Opportunity Intake & Workflow
+* Work Classification & Responsibility Design
+* Governance Queue & Executive Reporting
+* Portfolio Visibility Dashboard
+
+Success Metric:
+
+* Reduce governance cycle time from 30 days to under 10 days
+
+---
+
+### Horizon 2 — Intelligence (3–9 Months)
+
+* Governance Recommendation Engine
+* Reusable Governance Templates
+* Pilot Outcome Tracking
+* Cross-Functional Risk Intelligence
+
+Success Metric:
+
+* Reduce manual governance effort by 50%
+
+---
+
+### Horizon 3 — Scale (9–18 Months)
+
+* Portfolio Intelligence Engine
+* Governance Copilot
+* Enterprise AI Knowledge Graph
+* Autonomous Governance Operations
+
+Success Metric:
+
+* Predict pilot success and governance outcomes using historical portfolio intelligence
+
+---
+
+## Board Narrative
+
+Organizations cannot scale AI adoption without first scaling AI governance.
+
+The AI Governance Operating System becomes the system of record for AI decision-making, helping enterprises evaluate opportunities faster, manage risk more consistently, and build institutional knowledge that compounds over time.
+
+---
+
+## The Ask
+
+Fund the creation of an enterprise AI governance platform that reduces governance costs by 69%, increases AI opportunity throughput by 4x, and creates a repeatable operating model for responsible AI deployment.
+
+---
+
+## Key Strategic Change
+
+### Original Thinking
+
+Build a workflow system to manage AI opportunity intake and review.
+
+### Current Thinking
+
+Build the operating system that enables enterprises to evaluate, govern, and scale AI safely.
+
+The software is the product.
+
+The accumulated governance intelligence becomes the strategic asset.
+
 
