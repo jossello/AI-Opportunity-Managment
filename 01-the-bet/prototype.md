@@ -91,7 +91,7 @@ ai
 Lovable
 
 ## Prototype Link
-[<!-- Paste the shareable URL -->
+[(https://ai-opportunity-management.lovable.app
 ](https://ai-opportunity-management.lovable.app)
 
 ## AI Value Archetype
