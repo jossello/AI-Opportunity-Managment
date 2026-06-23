@@ -96,6 +96,7 @@ Lovable
 
 ## AI Value Archetype
 Primary Archetype: Orchestrator
+
 Secondary Archetypes: Oracle, Copilot
 
 ## The Bet in One Sentence
