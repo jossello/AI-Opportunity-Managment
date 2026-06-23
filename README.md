@@ -1,6 +1,6 @@
-# My AI Product Strategy
+# AI Opportunity Managment System
 
-> A living strategy built across 6 sessions. Each module adds one component. By Module 6, this repo IS your strategy — version-controlled, board-ready, portable.
+> Organizations are struggling to evaluate and govern a growing volume of AI opportunities, and a structured work-classification process can help them make faster, more consistent decisions about what to build, buy, scale, or stop.
 
 ---
 
@@ -8,12 +8,12 @@
 
 | Component | Module | Status | Key Artifact |
 |-----------|--------|--------|-------------|
-| **The Bet** | M1 | [ ] | `01-the-bet/` |
-| **The Moat** | M2 | [ ] | `02-the-moat/` |
+| **The Bet** | M1 | [x] | `01-the-bet/` |
+| **The Moat** | M2 | [x] | `02-the-moat/` |
 | **The Margin** | M3 | [ ] | `03-the-margin/` |
-| **The Contract** | M4 | [ ] | `04-the-contract/` |
-| **The Guardrails** | M5 | [ ] | `05-the-guardrails/` |
-| **The Pitch** | M6 | [ ] | `06-the-pitch/` |
+| **The Contract** | M4 | [x] | `04-the-contract/` |
+| **The Guardrails** | M5 | [x] | `05-the-guardrails/` |
+| **The Pitch** | M6 | [x] | `06-the-pitch/` |
 
 ---
 
@@ -21,12 +21,12 @@
 
 **What we're building, for whom, why now.**
 
-- **Product:**
-- **AI Value Archetype:**
-- **Vulnerability Scores:** Moat __/5 · Data __/5 · Platform __/5
-- **Top Risk:**
-- **Confidence:** H / M / L
-- **Prototype:** [link]
+- **Product:** AI Opportunity Managment System
+- **AI Value Archetype:** _(add: Automator / Copilot / Oracle / Creator / Orchestrator)_
+- **Vulnerability Scores:** _(add: Moat _/5 · Data _/5 · Platform _/5)_
+- **Top Risk:** Using Claude Skills with model upgrades/changes potentially improving/changing AI sections of the workflow.
+- **Confidence:** H
+- **Prototype:** [
 - **Kill Criteria:**
 
 → Details: [`01-the-bet/`](01-the-bet/)
@@ -37,11 +37,11 @@
 
 **Why this won't get copied in 6 months.**
 
-- **Data Flywheel Score:** __/20
-- **Weakest Loop:**
-- **Competitive Position:** [describe axes + placement]
-- **Encroachment Defense:**
-- **Vendor Portability:** Ready / Partial / Locked
+- **Data Flywheel Score:**
+- **Weakest Loop:** Network Loop
+- **Top Encroachment Threat:**
+- **Encroachment Defense:** Build cross-team discovery, reusable governance patterns, approved use-case libraries, and recommended responsibility templates that make every team's work more valuable to others.
+- **Vendor Portability:** Ready
 
 → Details: [`02-the-moat/`](02-the-moat/)
 
@@ -54,7 +54,10 @@
 - **Gross Margin (current):**
 - **Gross Margin (AI-adjusted):**
 - **Pricing Model:**
+- **Pricing Today → Tomorrow:**
+- **Total AI COGS / unit:**
 - **Cascading Strategy:**
+- **Net Margin Shift:**
 - **Break-even at:**
 
 → Details: [`03-the-margin/`](03-the-margin/)
@@ -66,10 +69,10 @@
 **Why users will trust a probabilistic system.**
 
 - **Reliability Target:**
-- **Golden Dataset:** __ rows, __ adversarial
-- **Confidence UX:** [approach]
-- **HITL Architecture:**
-- **Failure Mode Coverage:**
+- **Golden Dataset:** 10 rows, __ adversarial
+- **Confidence UX:** ### Approach
+- **HITL Architecture:** ### Stage 1: Opportunity Intake
+- **Failure Mode Coverage:** ### Most Likely Failure Mode
 
 → Details: [`04-the-contract/`](04-the-contract/)
 
@@ -79,10 +82,13 @@
 
 **What breaks when this scales — and what compounds.**
 
-- **Compounding System:** [describe feedback loops]
-- **Governance Posture:** [approach]
-- **Shadow AI Status:** __ tools found, __ triaged
-- **Agent Boundaries:**
+- **Compounding System:** | Loop | Input | Output | Compounds? | Status | | ------------------------- | ------------------------------------------------------- | ------------------------------------------------------ | ---------- | ------- | | Go…
+- **Governance Posture:**
+- **Autonomy Boundaries:**
+- **Escalation Triggers:**
+- **Audit Cadence:**
+- **Shadow AI Audit (user-side):**
+- **Agent Boundaries:** ### Intake Agent
 - **Regulatory Exposure:**
 
 → Details: [`05-the-guardrails/`](05-the-guardrails/)
@@ -93,10 +99,12 @@
 
 **How you get this funded, shipped, and adopted.**
 
-- **Horizon 1 (Now):**
-- **Horizon 2 (Next):**
-- **Horizon 3 (Bet):**
-- **Board Narrative:** [1-sentence thesis]
-- **Key Metric:**
+- **Horizon 1 (Now):** AI Opportunity Intake & Workflow · Work Classification & Responsibility Design · Governance Queue & Executive Reporting · Portfolio Visibility Dashboard
+- **Horizon 2 (Next):** Governance Recommendation Engine · Reusable Governance Templates · Pilot Outcome Tracking · Cross-Functional Risk Intelligence
+- **Horizon 3 (Bet):** Portfolio Intelligence Engine · Governance Copilot · Enterprise AI Knowledge Graph · Autonomous Governance Operations
+- **Board Narrative:**
+- **Ask:**
+- **Key Strategic Change:**
 
 → Details: [`06-the-pitch/`](06-the-pitch/)
+
